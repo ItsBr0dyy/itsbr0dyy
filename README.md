@@ -12,3 +12,6 @@ I created proxy APIs of the [7TV v3 API](https://7tv.itsbr0dyy.dev) and [Twitch 
 - [Pastebin](https://p.itsbr0dyy.dev) (Hastebin)
 - [NativeLogs](https://logs.itsbr0dyy.de) (Logs API in Twitch chats)
 - [VanillaScript](https://vs.itsbr0dyy.dev) (Programming language that compiles into Javascript(project with my friend))
+
+# 💻 Tech Stack:
+![![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
