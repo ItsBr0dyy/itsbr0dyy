@@ -3,11 +3,10 @@ Hi!
 I'm ItsBr0dyy! I am a 14 year old (dated of January 25, 2026) developer and Twitch streamer. 
 I always have been a fan of computers from watching videos from [Crypto NWO](https://www.youtube.com/@CryptoNWO) from his virus installation videos. 
 While learning about viruses and computers around fourth or fifth grade, I started learning Python to make simple scripts for fun and eventually got introducted into HTML and CSS. 
-I started using Svelte as 2026 and made my whole website in it and made everything way easier.
+I started using Svelte as of 2026 and made my whole website in it and made everything way easier.
 
 I have create various projects including [DankShare](https://i.itsbr0dyy.dev), [poggSpin](https://bot.itsbr0dyy.dev), [my website](https://itsbr0dyy.dev), and other frontends and backends.
 I created various tools within my website like a hastebin, url shortener, etc. A few more of my projects are listed below:
-- [EmoteGuesser (fork of Xslash58's)](https://emoteguesser.itsbr0dyy.dev) (guessing game with 7TV emotes)
 - [Last.fm Widget](https://itsbr0dyy.dev/lastfm) (last.fm widget)
 - [Timer Overlay](https://itsbr0dyy.dev/timer) (a timer overlay for obs and website etc.)
 - [Hastebin](https://itsbr0dyy.dev/h) (a hastebin to store code or text)
