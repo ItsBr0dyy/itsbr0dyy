@@ -1,6 +1,6 @@
 Hi!
 
-I'm ItsBr0dyy! I am a 14 year old (dated of January 25, 2026) developer and Twitch streamer. 
+I'm ItsBr0dyy! I am a 15 year old (dated of July 15, 2026) developer and Twitch streamer. 
 I always have been a fan of computers from watching videos from [Crypto NWO](https://www.youtube.com/@CryptoNWO) from his virus installation videos. 
 While learning about viruses and computers around fourth or fifth grade, I started learning Python to make simple scripts for fun and eventually got introducted into HTML and CSS. 
 I started using Svelte as of 2026 and made my whole website in it and made everything way easier.
